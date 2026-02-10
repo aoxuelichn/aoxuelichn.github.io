@@ -440,15 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-received-my-ph-d-degree-in-landscape-architecture-from-tsinghua-university",
+            },},{id: "news-i-received-my-ph-d-degree-in-landscape-architecture-from-tsinghua-university",
           title: 'I received my Ph.D. degree in Landscape Architecture from Tsinghua University! 🎓',
           description: "",
           section: "News",},{id: "news-i-was-invited-to-give-a-lecture-on-large-language-models-llms-for-students-at-xiuzhong-college-tsinghua-university",
