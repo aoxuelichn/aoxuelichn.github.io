@@ -3,12 +3,12 @@ layout: about
 title: about
 permalink: /
 
-subtitle: "Ph.D. in Engineering @ Tsinghua University"
+subtitle: "Ph.D. in Landscape Architecture @ Tsinghua University"
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>30 Shuangqing Road</p>
     <p>Haidian District, Beijing</p>
@@ -28,10 +28,9 @@ latest_posts:
   limit: 3 
 ---
 
-Write your biography here. Tell the world about yourself. 
 
 My research focuses on **Point Cloud Processing** and **Urban Ecosystem Services**. I recently obtained my Ph.D. from Tsinghua University.
 
 You can find my publications in the [Publications](/publications/) page. 
 
-Contact: [your-email@tsinghua.edu.cn](mailto:your-email@tsinghua.edu.cn)
+Contact: [aoxueli_chn@163.com](mailto:aoxueli_chn@163.com)
