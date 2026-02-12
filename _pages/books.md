@@ -6,8 +6,8 @@ nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> In an increasingly noisy world, I find that books offer a vital sanctuary for self-reflection. To read is to seek a mirror for the soul and a compass for the mind; it confirms my sense of self and provides the philosophical grounding for my way of life. This bookshelf is a curated sanctuary of ideas that continue to shape my perspective as both a researcher and an individual.
 >
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+
 
 ## Books that I am reading, have read, or will read
