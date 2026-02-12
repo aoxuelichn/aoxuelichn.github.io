@@ -414,11 +414,11 @@ ninja.data = [{
             window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-grapes-of-wrath",
+          title: 'The Grapes of Wrath',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
+              window.location.href = "/books/The_Grapes_of_Wrath.html";
             },},{id: "news-i-received-my-ph-d-degree-in-landscape-architecture-from-tsinghua-university",
           title: 'I received my Ph.D. degree in Landscape Architecture from Tsinghua University! 🎓',
           description: "",
